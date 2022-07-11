@@ -17,7 +17,7 @@
 # 🌍 In my spare time, I enjoy
 * 🎵 Music
 * 🏂 Snowboarding
-* 📒 Reading a lot
+* 📒 Reading lots of books
 * 🏊 Going to Gym
 
 # 📫 Contact me
