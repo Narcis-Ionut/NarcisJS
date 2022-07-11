@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I'm Narcis 👋👋👋
 
-<!--
-**NarcisJS/NarcisJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🏢 Frontend Web Developer
 
-Here are some ideas to get you started:
+# 🛠 Skills
+* 💻 `React`
+* 📟 `Javascript`
+* 📟 `Typescript`
+* 💻 `HTML & CSS`
+* 📙 `Python`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🧠 I'm currently diving deeper into
+* 🚀 React
+* 🚀 Overall frontend technologies
+
+# 🌍 In my spare time, I enjoy
+* 🎵 Music
+* 🏂 Snowboarding
+* 📒 Reading a lot
+* 🏊 Going to Gym
+
+# 📫 Contact me
+* 📧 You can contact me for collaborations via [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=narcis.gusa@gmail.com)
+* 📮 You can say hi via [Linkedin](https://www.linkedin.com/in/narcis-gusa/)
