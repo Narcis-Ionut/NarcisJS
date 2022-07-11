@@ -8,6 +8,7 @@
 * 📟 `Typescript`
 * 💻 `HTML & CSS`
 * 📙 `Python`
+* 💻 `Git`
 
 # 🧠 I'm currently diving deeper into
 * 🚀 React
