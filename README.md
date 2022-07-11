@@ -12,7 +12,7 @@
 
 # 🧠 I'm currently diving deeper into
 * 🚀 React
-* 🚀 Overall frontend technologies
+* 🚀 Web Development Technologies
 
 # 🌍 In my spare time, I enjoy
 * 🎵 Music
