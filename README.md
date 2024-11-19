@@ -1,25 +1,31 @@
-# Hi, I'm Narcis 👋👋👋
+Here’s the updated version with your specific changes and phrased concisely:
 
-* 🏢 Frontend Web Developer
+Hi, I’m Narcis 👋👋👋
 
-# 🛠 Skills
-* 💻 `React`
-* 📟 `Javascript`
-* 📟 `Typescript`
-* 💻 `HTML & CSS`
-* 📙 `Python`
-* 💻 `Git`
+	•	🏢 Frontend Web Developer
 
-# 🧠 I'm currently diving deeper into
-* 🚀 React
-* 🚀 Web Development Technologies
+🛠 Skills
 
-# 🌍 In my spare time, I enjoy
-* 🎵 Music
-* 🏂 Snowboarding
-* 📒 Reading lots of books
-* 🏊 Going to Gym
+	•	💻 React
+	•	📟 JavaScript
+	•	📟 TypeScript
+	•	💻 HTML & CSS
+	•	📙 Python
+	•	💻 Git
 
-# 📫 Contact me
-* 📧 You can contact me for collaborations via [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=narcis.gusa@gmail.com)
-* 📮 You can say hi via [Linkedin](https://www.linkedin.com/in/narcis-gusa/)
+🧠 I’m currently diving deeper into
+
+	•	🚀 React
+	•	🚀 Web Development Technologies
+	•	🚀 Large language models and exploring new AI technologies
+
+🌍 In my spare time, I enjoy
+
+	•	📒 Reading books
+	•	🏋️‍♂️ Working out
+	•	🚗 Working on the car
+
+📫 Contact me
+
+	•	📧 You can contact me for collaborations via Gmail
+	•	📮 You can say hi via LinkedIn
