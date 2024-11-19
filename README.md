@@ -26,5 +26,5 @@ Hi, I’m Narcis 👋👋👋
 
 📫 Contact me
 
-	•	📧 You can contact me for collaborations via Gmail
-	•	📮 You can say hi via LinkedIn
+📧 You can contact me for collaborations via [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=narcis.gusa@gmail.com)  
+📮 You can say hi via [LinkedIn](https://www.linkedin.com/in/narcis-gusa/) 
